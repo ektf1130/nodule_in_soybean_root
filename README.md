@@ -1,5 +1,5 @@
 ## Introduction
-- The effect of silicon on nodule formation in soybean roots evaluated by image analysis
+- Image-based Machine Learning Characterizes Root Nodule in Soybean Exposed to Silicon
 
 ## Install
 ```
