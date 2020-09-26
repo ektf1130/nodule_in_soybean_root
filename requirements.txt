@@ -1,5 +1,5 @@
 keras==2.2.2
-tensorflow==1.4.0
+tensorflow==1.15.4
 opencv-python==3.4.3
 pydensecrf
 scikit-image==0.14.2
